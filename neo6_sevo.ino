@@ -11,7 +11,7 @@
 // Target coordinates (modify as needed)
 const double TARGET_LAT = 26.19264;  // Example Latitude
 const double TARGET_LON = 91.69740;  // Example Longitude
-const double RADIUS_THRESHOLD = 20.0; // 10 meters(I changed it to 20 metres for testing)
+const double RADIUS_THRESHOLD = 20.0; 
 
 // GPS and Servo objects
 TinyGPSPlus gps;
